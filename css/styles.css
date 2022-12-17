@@ -1,0 +1,44 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.photo-title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+
+.photo-subtitle {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+.logo-blue {
+  color: #2196f3;
+}
+
+.logo-black {
+  color: #000000;
+}
+
+.logo-white {
+  color: #ffffff;
+}
+
+.logo {
+  text-decoration: none;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+}
