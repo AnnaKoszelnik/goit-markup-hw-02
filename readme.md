@@ -1,1 +1,1 @@
-https://annakoszelnik.github.io/goit-markup-hw-01/
+https://annakoszelnik.github.io/goit-markup-hw-02/
