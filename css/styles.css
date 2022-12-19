@@ -69,7 +69,7 @@ footer {
   color: #ffffff;
 }
 
-.mail-footer {
+.info-footer {
   text-decoration: none;
   font-family: "Roboto";
   font-size: 14px;
@@ -86,4 +86,20 @@ footer {
   line-height: 16px;
   letter-spacing: 0.02em;
   color: #212121;
+}
+
+.button-color:hover,
+.button-color:focus {
+  color: #ffffff;
+
+  background-color: #2196f3;
+}
+
+.link:hover,
+.link:focus {
+  color: #2196f3;
+}
+
+.mail-color {
+  color: #757575;
 }
