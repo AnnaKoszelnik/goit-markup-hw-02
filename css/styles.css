@@ -1,11 +1,13 @@
 body {
   font-family: "Roboto", sans-serif;
+  color: #212121;
 }
+
 .photo-title {
   font-family: "Roboto";
   font-weight: 700;
   font-size: 18px;
-  line-height: 36px;
+  line-height: 2;
   letter-spacing: 0.06em;
   color: #212121;
 }
@@ -13,7 +15,7 @@ body {
 .photo-subtitle {
   font-family: "Roboto";
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.85;
   letter-spacing: 0.03em;
   color: #757575;
 }
@@ -35,7 +37,7 @@ body {
   font-family: "Raleway";
   font-weight: 700;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.19;
   letter-spacing: 0.03em;
   text-shadow: 0px 4px 4px #000000;
 }
@@ -44,7 +46,7 @@ body {
   font-family: "Raleway";
   font-weight: 700;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.19;
   letter-spacing: 0.03em;
 }
 
@@ -64,7 +66,7 @@ footer {
   text-decoration: none;
   font-family: "Roboto";
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.71;
   letter-spacing: 0.03em;
   color: #ffffff;
 }
@@ -73,7 +75,7 @@ footer {
   text-decoration: none;
   font-family: "Roboto";
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.71;
   letter-spacing: 0.03em;
   color: #ffffff99;
 }
@@ -83,7 +85,7 @@ footer {
   font-family: "Roboto";
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.14;
   letter-spacing: 0.02em;
   color: #212121;
 }
@@ -92,10 +94,11 @@ footer {
   font-family: "Roboto";
   font-weight: 500;
   font-size: 16px;
-  line-height: 26px;
+  line-height: 1.62;
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
+  cursor: pointer;
 }
 .button2:hover,
 .button2:focus {
@@ -116,7 +119,7 @@ footer {
   font-family: "Roboto";
   font-weight: 900;
   font-size: 44px;
-  line-height: 60px;
+  line-height: 1.36;
   text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -128,13 +131,14 @@ footer {
   font-family: "Roboto";
   font-weight: 700;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.88;
   display: flex;
   align-items: center;
   text-align: center;
   letter-spacing: 0.06em;
   color: #ffffff;
   background-color: #2196f3;
+  cursor: pointer;
 }
 .button1:hover,
 .button1:focus {
@@ -145,7 +149,7 @@ footer {
   font-family: "Roboto";
   font-weight: 700;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #212121;
@@ -153,9 +157,8 @@ footer {
 
 .description {
   font-family: "Roboto";
-  font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.71;
   letter-spacing: 0.03em;
   color: #757575;
 }
@@ -164,8 +167,27 @@ footer {
   font-family: "Roboto";
   font-weight: 700;
   font-size: 36px;
-  line-height: 42px;
+  line-height: 1.19;
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
+}
+
+.member-name {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.18;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
+.position {
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 1.18;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #757575;
 }
