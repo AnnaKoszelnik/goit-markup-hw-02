@@ -53,11 +53,11 @@ body {
   letter-spacing: 0.03em;
 }
 
-ul {
+.list {
   list-style-type: none;
 }
 
-footer {
+.footer {
   width: 1600px;
   height: 252px;
   left: 0px;
