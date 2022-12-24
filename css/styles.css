@@ -12,7 +12,7 @@ body {
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
-  color: #212121;
+  color: var(--main-color);
 }
 
 .photo-subtitle {
@@ -20,7 +20,7 @@ body {
   font-size: 16px;
   line-height: 1.85;
   letter-spacing: 0.03em;
-  color: #757575;
+  color: var(--second-color);
 }
 
 .logo-blue {
@@ -90,7 +90,7 @@ ul a {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
-  color: #212121;
+  color: var(--main-color);
 }
 
 .button2 {
@@ -100,7 +100,7 @@ ul a {
   line-height: 1.62;
   text-align: center;
   letter-spacing: 0.03em;
-  color: #212121;
+  color: var(--main-color);
   cursor: pointer;
 }
 .button2:hover,
@@ -116,7 +116,7 @@ ul a {
 }
 
 .mail-color {
-  color: #757575;
+  color: var(--second-color);
 }
 .title {
   font-family: "Roboto";
@@ -155,7 +155,7 @@ ul a {
   line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #212121;
+  color: var(--main-color);
 }
 
 .description {
@@ -163,7 +163,7 @@ ul a {
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
-  color: #757575;
+  color: var(--second-color);
 }
 
 .subtitle-second {
@@ -173,7 +173,7 @@ ul a {
   line-height: 1.19;
   text-align: center;
   letter-spacing: 0.03em;
-  color: #212121;
+  color: var(--main-color);
 }
 
 .member-name {
