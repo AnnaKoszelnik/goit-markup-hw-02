@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", "Raleway", sans-serif;
   color: #212121;
 }
 :root {
@@ -83,7 +83,7 @@ footer {
   color: #ffffff99;
 }
 
-.navigation {
+ul a {
   text-decoration: none;
   font-family: "Roboto";
   font-weight: 500;
